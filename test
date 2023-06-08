@@ -1,0 +1,2006 @@
+Linux so’zining ma’nosi -
+====
+Erkin, ochiq kodli
+====
+Yopiq, ochiq kodli
+====
+Ochiq kodli
+====
+Yopiq kodli
+++++
+Linux distributivlariga qaysilar kiradi?
+====
+Ubuntu, Mandriva, Gentoo, Debian
+====
+NTFS, FAT, MSX
+====
+MSDOS, MSX, ES
+====
+Windows 7, Windows 8, Windows 10
+++++
+Linux opretsion tizimi kim tomonidan ishlab chiqilgan?
+====
+Linus Torvalds
+====
+Mark Tsukerberg
+====
+Pavel Durov
+====
+Bill Geyts
+++++
+Linux opretsion tizimi nechanchi yilda ishlab chiqilgan?
+====
+1991
+====
+1992
+====
+1993
+====
+1990
+++++
+Linux opretsion tizimi qaysi opretasion tizim asosida ishlab chiqilgan?
+====
+Unix
+====
+Windows
+====
+QNX
+====
+Doppix
+++++
+Linux opretasion tizimi dastlab qanday nomlangan?
+====
+Freax
+====
+Ubuntu
+====
+Mandriva
+====
+Debian
+++++
+Linux operatsion tizimining foydalanuvchi interfeysi nechtani tashkil qiladi?
+====
+2 ta
+====
+1 ta
+====
+3 ta
+====
+4 ta
+++++
+Linux opretasion tizmi qanday interfeyslardan iborat?
+====
+GUI (Graphic User Interface) grafikali va CLI(Command Line Interface) konsol, ya'ni buyruqlar qatori
+====
+Konsol interfeys
+====
+Grafikali interfeys
+====
+Bir foydalanuvchili interfeys
+++++
+GUI ning kengaytmasi to’g’ri ko’rsatilgan javobni belgilang.
+====
+Graphic User Interface
+====
+Graphic Up Interface
+====
+Graphic Union Interface
+====
+Graphic Under Interface
+++++
+CLI ning kengaytmasi to’g’ri ko’rsatilgan javobni belgilang.
+====
+Command Line Interface
+====
+Command Live Interface
+====
+Command Look Interface
+====
+Command Load Interface
+++++
+Graphic User Interface ning o’zbek tilidagi tarjimasini ko’rsating
+====
+Grafik foydalanuvchi interfeysi
+====
+Grafik tizim interfeysi
+====
+Grafik uzel interfeysi
+====
+Garfik mijoz interfeysi
+++++
+Command Line Interface ning o’zbek tilidagi tarjimasini ko’rsating
+====
+Buyruqlar qatori interfeysi
+====
+Tizimlar qatori interfeysi
+====
+Satrlar qatori interfeysi
+====
+Algoritmlar qatori interfeysi
+++++
+Linux operatsion tizimining rasmiy web sahifasini ko’rsating.
+====
+ http://www.linux.org
+====
+ http://www.linx.org
+====
+ http://www.lnux.org
+====
+ http://www.liux.org
+++++
+Linux operatsion tizimining qaysi distributivlari oʻzbek tiliga tarjima qilingan?
+====
+Mandriva, Ubuntu, Booyo
+====
+Windows 7, Windows 8
+====
+Debian, QNX
+====
+Freax
+++++
+Linux operatsion tizimi qaysi konferensiyada e’lon qilingan?
+====
+USENET
+====
+TELNET
+====
+ARPANET
+====
+UPNET
+++++
+Linux operatsion tizimi qaysi dasturlash tilida yozilgan?
+====
+C
+====
+C++
+====
+C
+====
+Java
+++++
+Linux operatsion tizimida Windows va MacOS dasturlari ishlaydimi?
+====
+Yo’q
+====
+Ha
+====
+Ba’zilari ishlaydi
+====
+Ba’zilari ishlamaydi
+++++
+Hozirgi kunda Linux operatsion tizimi distributivlari nechtaga yaqin?Сколько дистрибутивов операционной системы Linux в настоящее время доступно?
+====
+100 taga yaqin
+====
+150 taga yaqin
+====
+200 taga yaqin
+====
+250 taga yaqin
+++++
+Linux operatsion tizimida arxivlangan fayllar qanday indekslanadi?
+====
+gz, bz, gzip, bzip
+====
+az, bz, gzip, bzip
+====
+nz, bz, gzip, bzip
+====
+mz, bz, gzip, bzip
+++++
+Unix qanday operatsion tizim hisoblanadi?
+====
+ko'p formatli, ko'p funksiyali, ko'p foydalanuvchili
+====
+yagona interfeysli
+====
+ko'p vazifasiz
+====
+ko'p oqimsiz
+++++
+Hozirda Unixning qanday turlari mavjud?
+====
+ochiq, yopiq va pulli
+====
+distributivli
+====
+desktop
+====
+pro
+++++
+Asosan, stol kompyuterlari uchun, serverlar uchun xavfsiz va barqaror operatsion tizim qaysi javobda ko'rsatilgan?
+====
+Mageia
+====
+Debian
+====
+Ubuntu
+====
+Fedora
+++++
+... bu - ajratilgan server bo'lib, ixtiyoriy tipdagi fayllar ustida kiritish - chiqarish va saqlash kabi amallarni bajarishga mo'ljallangan.
+====
+Fayl server
+====
+Antivirus
+====
+Operatsion tizim
+====
+Dastur
+++++
+NFS bu - ...
+====
+Tarmoq fayl tizimi
+====
+Veb-server
+====
+ajratilgan server
+====
+fayl menejer
+++++
+Qaysi komanda faqat o'qish ruxsatini beradi?
+====
+Ro
+====
+rw
+====
+noaccess
+====
+allow
+++++
+Qaysi komanda o'qish bilan birga yozish huquqini beradi?
+====
+rw
+====
+ro
+====
+llow
+====
+noaccess
+++++
+Ko'rsatilgan direktoriyadan foydalanish ruxsat berilmasligi qanday izohlanadi?
+====
+noaccess
+====
+ ro
+====
+rw
+====
+allow
+++++
+Samba serveri bu ...
+====
+Linux va Windows OT lar o'rtasida ma'lumotlar va printerlarga bo'lgan ruxsatlarni boshqarishni osonlashtirib beradi
+====
+Tarmoq fayl tizimi
+====
+Klient-serverli ilova
+====
+Veb-serveri
+++++
+Fayl serveri bu ...
+====
+Ajratilgan server
+====
+Fayl tizimi
+====
+fayl menejer
+====
+Klient-serverli ilova
+++++
+Yangi guruh yaratish uchun qaysi komandadan foydalaniladi?
+====
+groupadd
+====
+groupmod
+====
+groupput
+====
+groupdel
+++++
+Joriy holda qaysi katalogda turganligimizni ko'rsatib beradigan buyruq nomi?
+====
+pwd
+====
+cd
+====
+dir
+====
+rm
+++++
+Faylni o'chirishda qaysi buyruqdan foydalanamiz?
+====
+rm
+====
+mkdir
+====
+pwd
+====
+cd
+++++
+Faylning tarkibini ko'rishda qaysi buyruqdan foydalanamiz?
+====
+Cat
+====
+pwd
+====
+touch
+====
+Cp
+++++
+Linux operatsion tizimi emblemasida qanday jonzot tasvirlangan?
+====
+Pingvin
+====
+Morj
+====
+Qunduz
+====
+Delfin
+++++
+Linux va Windows operatsion tizimlarni o'rtasida ma'lumotlar va printerlarga bo'lgan ruxsatlarni osonlashtirib boshqarib beruvchi ilovani (serverni) ko'rsating?
+====
+Samba
+====
+NFS
+====
+FTP
+====
+DNS
+++++
+Foydalanuvchilarga tarmoqdagi ajratilgan kompyuterlardagi katalog va fayllar lokal bo'lgan holda murojaatni ta'minlab berish uchun qaysi ilovadan(server) foydalaniladi?
+====
+NFS
+====
+FTP
+====
+DNS
+====
+HTTPS
+++++
+ls komandasi qanday vazifani bajaradi?
+====
+Katalogdagi barcha faylni ko'rsatadi
+====
+katalogni o'chiradi
+====
+joriy katalogni ko'rsatadi
+====
+katalogni yaratadi
+++++
+
+====
+Linux operatsion tizim asosan qay maqsadda foydalangan qulay?
+====
+Server maqsadida
+====
+Klient
+====
+faqat klient maqsadida
+====
+serser va klient maqsadida noqulay
+++++
+Linux tarqalishi hozirgi kunda dunyoda necha foizni tashkil etadi?
+====
+20%
+====
+40%
+====
+60%
+====
+80%
+++++
+cp komandasi qanday vazifani bajaradi?
+====
+Fayl ichidagi ma'lumotni ko'chirib olish uchun
+====
+faylni yaratish
+====
+joriy katalogni ko'rsatish
+====
+faylni o'chirish
+++++
+chmod komandasi qanday vazifani bajaradi?
+====
+Fayllar ustida ruxsatlarni boshqarish
+====
+Guruhlar yaratish
+====
+Admistratsiyalash
+====
+guruhlarni o'chirish
+++++
+Linux tizim strukturasi nechta qismdan tashkil topgan?
+====
+5
+====
+4
+====
+6
+====
+3
+++++
+Tizim ishini to'xtatish komandasi?
+====
+shutdown
+====
+reboot
+====
+restart
+====
+exit
+++++
+Ish rejimini to’xtatish komandasi?
+====
+Logout
+====
+shutdown
+====
+Reboot
+====
+Restart
+++++
+Oldin kiritilgan buyruqlar ichidan qidirish qanday kombinatsiya orqali amalga oshiriladi?
+====
+CTRL+R
+====
+CTRL+X
+====
+CTRL+L
+====
+CTRL+S
+++++
+sudo apt-get upgrade komandasi tasnifi keltirilgan qatorni ko'rsating?
+====
+tizimdagi barcha paketlarni yangilash
+====
+dastur o'rnatish
+====
+dasturni o'chirish
+====
+kompyuterni o'chirish
+++++
+Faylni chop etish buyrug'i qanday?
+====
+Echo
+====
+Ls
+====
+man
+====
+cp
+++++
+Bajarilayotgan buyruqni to'xtatish kombinatsiyasini ko'rsating?
+====
+CTRL+C
+====
+CTRL+S
+====
+CTRL+L
+====
+CTRL+X
+++++
+Qurilmalar interfeysi katalogi qanday nomlanadi?
+====
+Sys
+====
+proc
+====
+lib
+====
+temp
+++++
+Huquqni maskalash komandasi qanday?
+====
+Umask
+====
+Rwrx
+====
+Chmod
+====
+Rw
+++++
+Tizimdagi barcha protsessni ko'rish qanday amalga oshiriladi?
+====
+ps-e
+====
+ps-f
+====
+ps-a
+====
+ps-x
+++++
+Yaratilgan foydalanuvchi qayd yozuvini o'chirish uchun qaysi buyruqdan foydalaniladi?
+====
+sudo deluser username
+====
+sudo adduser username
+====
+sudo accountname
+====
+sudo mkdir username
+====
+ 
+====
+Nano matn redaktorida yangi fayl yaratish uchun qaysi kombinasiyadan foydalaniladi?
+====
+nano file 
+====
+echo file
+====
+cat file
+====
+rm file
+++++
+Root qayd yozuvi huquqi qanday?
+====
+Ixtiyoriy amal bajarish mumkin
+====
+Сheklangan huquq
+====
+foydalanuvchi bilan bir xil
+====
+mexmon bilan bir xil
+++++
+Vi fayl redaktorida faylni saqlab chiqish uchun qo'llaniladigan kombinatsiya qaysi?
+====
+wq
+====
+q!
+====
+yy
+====
+dd
+++++
+Linux distrubutivlarini sanang?
+====
+mandriva, ubuntu, CentOS
+====
+vista,Solaris
+====
+Debian, XP
+====
+XP, Unix
+++++
+touch buyrug'i vazifasini ko'rsating?
+====
+Yangi fayl yaratish
+====
+Faylni ko'chirish
+====
+Faylni nusxalash
+====
+Joriy katalogni ko'rsatish
+++++
+boot katalogida nima joylashgan?
+====
+Yuklovchi fayl va yadro
+====
+Dasturlar haqida ma'lumot
+====
+Sozlanmalar
+====
+Ma'lumot saqlanadigan katalog
+++++
+Fayl, katalog, dastur yoki foydalanuvchi huquqini o'zgartirish yoki uni ustida ishlash uchun ishlatiladigan buyruqlarni ko'rsating?
+====
+chmod, chown
+====
+arch, uptime
+====
+cd, mkdir
+====
+ipconfig, sudo –s
+++++
+shutdown -r now buyrug'i nima uchun qo'llaniladi?
+====
+tizimni qayta yuklash
+====
+tizimni o'chirish
+====
+tizimdan chiqish
+====
+tizimni uxlash rejimiga o'tqazish
+++++
+*.s kengaytmali fayl nima maqsadda foydalaniladi?
+====
+Dastur uchun ob'ekt kod sifatida
+====
+C dasturlash tilining manba fayli sifatida
+====
+Audio fayl sifatida
+====
+Ichrochi fayl sifatida
+++++
+katalog - ?
+====
+boot katalog
+====
+ildiz katalog
+====
+qo'llanma katalog
+====
+audio katalog
+++++
+hostname buyrug'i vazifasini ko'rsating?
+====
+tizim nomini ekranga chop qilish
+====
+faylni o'chirish
+====
+matn faylda mavjud matnlarni ekranga chop qilish
+====
+katalog yaratish
+++++
+Foydalanuvchining asosiy katalogini ko'rsating?
+====
+/home
+====
+/usr
+====
+/lib
+====
+/var
+++++
+Vi kim tomonidan yaratilgan?
+====
+Bill Joy
+====
+Richard Stallman
+====
+Bill Geyts
+====
+Stiv Jobs
+++++
+Rrmdir qanday vazifani bajaradi?
+====
+katalogni o'chirish
+====
+katalogni nusxalash
+====
+faylni o'chirish
+====
+faylni yaratish
+++++
+tmp fayl qanday fayl?
+====
+Vaqtinchalik fayllar katalogi
+====
+Kutubxona fayllar katalogi
+====
+Qo'llanma katalog
+====
+Asosiy drayverlar katalogi
+++++
+date buyrug'ining vazifasi?
+====
+kun vaqtni chiqarish
+====
+fayllarni solishtirish
+====
+matnni ekranga chiqarish
+====
+seanslarni yozib borish
+++++
+Укажите текстового редактора установленный в системе Linux?
+====
+Emacs
+====
+Notepad++
+====
+Notebook
+====
+Bloknot
+++++
+Nano redaktorida faylni saqlab chiqish uchun qanday kombinatsiyadan foydalaniladi?
+====
+Ctrl+X
+====
+Ctrl+P
+====
+Alt+X
+====
+Shift+X
+++++
+ps -a buyrug'i qanday vazifani bajaradi?
+====
+terminalga oid jarayonlarni ko'rsatadi
+====
+barcha jarayonlarni ko'rsatadi
+====
+barcha jarayonlarni tugatadi
+====
+oxirgi buyruqni ko'rsatadi
+++++
+Fayl yaratish buyrug'ini qo'rsating
+====
+Touch
+====
+echo file
+====
+mkdir
+====
+Mk
+++++
+cal buyrug'i qanday vazifani bajaradi?
+====
+Joriy oy kalendarini ko'rsatadi
+====
+Joriy yil kalendarini ko'rsatadi
+====
+kalkulyator dasturini ishga tushuradi
+====
+kompyuter ishlash vaqtini ko'rsatadi
+++++
+shutdown -r now bilan reboot buyrug'lari nima farqlanadi?
+====
+farqi yo'q
+====
+shutdown -r now biz belgilagan vaqtdan so'ng bajariladi
+====
+shutdown -r now buyrug'i imtiyozli
+====
+reboot buyrug'i imtiyozli
+++++
+pkg paketini o'rnatish buyrug'ini ko'rsating
+====
+apt-get install pkg
+====
+apt-get upgrade
+====
+apt-get update
+====
+apt-get -f install pkg
+++++
+Kompyuter yoqilgan paytdan boshlab ishlash vaqtini ko'rsatish buyrug'ini tanlang
+====
+Uptime
+====
+cal
+====
+clock -w
+====
+date
+++++
+whoami buyrug'ining vazifasini ko'rsating
+====
+loginni ko'rsatadi
+====
+kompyuter nomini ko'rsatadi
+====
+foydalanuvchi nomini ko'rsatadi
+====
+distributiv nomini ko'rsatadi
+++++
+Faylni o'chirish buyrug'ini kursating
+====
+rm –f
+====
+rm –rf
+====
+Rmdir
+====
+Cp
+++++
+mv buyrug'i qanday vazifani bajaradi?
+====
+Faylni qayta nomlab ko'chirish
+====
+Faylni o'chirish
+====
+Faylni o'chirish
+====
+Katalog yaratish
+++++
+FreeBSD, OpenBSD, NetBSD kabi operatsion tizimlar qaysi universitet tomonidan ishlab chiqilgan?
+====
+Berkli University
+====
+Moscow State University
+====
+ITMO University
+====
+MIT University
+++++
+Linux operatsion tizimi emblemasi qanday nomlanadi?
+====
+Tuks
+====
+Fox
+====
+Rare
+====
+Useful
+++++
+Asosan serverlar uchun mo'ljallangan Linux distributivini ko'rsating?
+====
+CentOS
+====
+Archlinux
+====
+Manjaro
+====
+Debian
+++++
+Tizimli administratorlar uchun mo'ljallangan distributiv qaysi javobda ko'rsatilgan?
+====
+OpenSuSE
+====
+Archlinux
+====
+Fedora
+====
+Mageia
+++++
+/etc katalogida nimalar joylashgan?
+====
+Sozlanmalar
+====
+Tizim ma'lumotlari
+====
+Dasturlar
+====
+Asosiy drayverlar
+++++
+*.bz2 kegaytmali fayl qanday fayl?
+====
+siqilgan fayl
+====
+Audiofayl
+====
+matnli fayl
+====
+Videofayl
+++++
+Укажите  основной каталог пользователя?
+====
+/home
+====
+/usr
+====
+/lib
+====
+/va
+++++
+Linux operatsion tizimidagi redaktorlarni ko'rsating?
+====
+vi, nano, emacs
+====
+word, libre office
+====
+excel, word,power point
+====
+notepad++, notebook
+++++
+Qattiq diskning bo'limlarni boshqarish uchun foydalaniladigan tizim utilitlar umumiy nomlanishi qanday?
+====
+Fdisk
+====
+Chkdsk
+====
+noaccess
+====
+mount
+++++
+Skript yozishdan oldin qanday belgilar qo'yiladi?
+====
+!
+====
+!
+====
+$!
+====
+%!
+++++
+Linux da Windows operatsion tizimidagi Program files katalogi bilan bir xil bo'lgan katalog qaysi?
+====
+/opt
+====
+/usr
+====
+/var
+====
+/home
+++++
+Kompyuterni ma'lum vaqtdan keyin o'chirish buyrug'i qaysi qatorda to'liq yozilgan?
+====
+shutdown –h hh:mm:ss
+====
+shutdown –h now
+====
+shutdown –c
+====
+shutdown –m
+++++
+C tilida yozilgan kodni kompilyatsya qilish uchun qaysi buyruqdan foydalaniladi?
+====
+gcc 1.c –o 1
+====
+nano file.c
+====
+cat file.c
+====
+echo 1.c
+++++
+Nano redaktorida yangi qatorga o'tish uchun qaysi tugmadan foydalaniladi?
+====
+O
+====
+K
+====
+I
+====
+X
+++++
+file.c fayli kompilyatsya jarayonidan o'tgach uni qaysi buyruq orqali ishga tushuramiz?
+====
+/file
+====
+gcc file.c –o file
+====
+./file.c
+====
+nano file.c
+++++
+Nano redaktorida faylni saqlab chiqish uchun qanday kombinatsiyadan foydalaniladi?
+====
+Ctrl+X
+====
+Ctrl+P
+====
+Alt+X
+====
+Shift+X
+++++
+ps all buyrug'i nima vazifani bajaradi?
+====
+barcha jarayonlarni ko'rsatadi
+====
+barcha jarayonlarni ko'rsatadi
+====
+barcha jarayonlarni tugatadi
+====
+ma'lum dasturga oid jarayonlarni ko'rsatadi
+++++
+Parolni  qayta tiklash buyrugini kursating
+====
+sudo –k
+====
+sudo –s
+====
+gksu –s
+====
+sudo -r  
+++++
+ps –a buyrug'i qanday vazifani bajaradi?
+====
+C
+====
+barcha jarayonlarni ko'rsatadi
+====
+barcha jarayonlarni tugatadi
+====
+oxirgi buyruqni ko'rsatadi
+++++
+Vi redaktorida saqlab chiqish buyrug'ini kiritishdan oldin qanday kombinatsiya ishlatiladi?
+====
+Shift+<<:>>
+====
+Ctrl+X
+====
+Ctrl+<<:>>
+====
+Shift+<<;>>
+++++
+find / -name file1 komandasi qanday funksiyani bajaradi?
+====
+/ papkasidan file1 ni qidiradi
+====
+file1 papkasini o'chiradi
+====
+/ papkasini file1 deb nomlaydi
+====
+file1 ni / deb nomlaydi
+++++
+Aynan foydalanuvchi tomonidan ishga tushirilgan jarayonlarni tugatish buyrug'ini ko'rsating
+====
+pkill –u user
+====
+ps ef
+====
+ps all
+====
+kill all
+++++
+ps ax|grep firefox buyrug'i qanday vazifani bajaradi?
+====
+Firefox dasturiga tegishli jarayonni ko'rsatadi
+====
+Firefox dasturiga tegishli jarayonni tugatadi
+====
+Firefox dasturini ishga tushuradi
+====
+Firefox dasturini o'chiradi
+++++
+Diskni formatlash buyrug'ini ko'rsating
+====
+fd format
+====
+m format
+====
+Mount
+====
+Mkfc
+++++
+Fayl tizimi monitoringi buyrug'ini ko'rsating
+====
+Mount
+====
+Mkfc
+====
+Fsck
+====
+Mkswap
+++++
+cat /proc/interrupts buyrug'i qanday vazifani bajaradi
+====
+uzilishlar haqida m'lumot ko'rsatadi
+====
+protsessor haqida m'lumot ko'rsatadi  
+====
+xotira haqida m'lumot ko'rsatadi
+====
+tizim haqida ma'lumot ko'rsatadi
+++++
+Tizimdan chiqish uchun qaysi buyruqdan foydalaniladi?
+====
+Logout
+====
+Systemout
+====
+shutdown – h now
+====
+Restart
+++++
+Rejalashtirilgan kompyuterni o'chirish buyrug'ini bekor qilish buyrug'ini tanlang
+====
+shutdown –c
+====
+shutdown –h
+====
+shutdown –h now
+====
+Shutdown
+++++
+passwd buyrug'i to'g'ri bajarilishi uchun qanday shart bajarilishi kerak?
+====
+root sifatida ishga tushurish
+====
+joriy papka /( ) bo'lishi kerak
+====
+joriy papka foydalanuvchi papkasi bilan bir xil bo'lishi kerak
+====
+joriy papka  /home  bo'lishi lozim
+++++
+Fayl va kataloglarni daraxt shaklida ko'rish uchun qanday buyruq kiritish lozim?
+====
+Tree
+====
+ls –a
+====
+Pwd
+====
+ls –f
+++++
+arch buyrug'i bilan bir xil vazifani bajaruvchi buyruqni ko'rsating.
+====
+uname –m
+====
+uname –r
+====
+Date
+====
+Cal
+++++
+cp dir/* buyrug'i qanday vazifani bajaradi?
+====
+dir katalogidagi fayllarni joriy papkaga ko'chiradi
+====
+joriy papkadagi fayllarni dir katalogiga ko'chiradi
+====
+dir katalogidagi fayllarni nusxalaydi
+====
+dir  katalogini ochadi
+++++
+pkg paketini o'rnatish buyrug'ini ko'rsating
+====
+apt-get install pkg
+====
+apt-get upgrade
+====
+apt-get update
+====
+apt-get -f install pkg
+====
+ 
+====
+Kompyuter yoqilgan paytdan boshlab ishlash vaqtini ko'rsatish buyrug'ini tanlang
+====
+Uptime
+====
+Cal
+====
+clock –w
+====
+Date
+++++
+sudo bilan gksu buyruqlarining farqi nimada?
+====
+sudo bilan gksu buyruqlarining farqi nimada?
+====
+sudo  buyrug'i imtiyozliroq
+====
+gksu buyrug'i imtiyozliroq
+====
+farqi yo'q
+++++
+cd .. buyrug'i nima vazifani bajaradi?
+====
+1 pag'ona yuqoriga o'tish
+====
+2 pag'ona yuqoriga o'tish
+====
+uy direktoriyagya o'tish
+====
+/home  direktoriyasiga o'tish
+++++
+Faylni o'chirish buyrug'ini kursating
+====
+rm –f
+====
+rm –rf
+====
+Rmdir
+====
+Cp
+++++
+passwd user1 buyrug'i nima vazifani bajaradi?
+====
+user1 ning parolini o'zgartiradi
+====
+parolni user1 ga o'zgartiradi
+====
+user1 ning parolini o'chiradi
+====
+user1 ning parolini user1 sifatida o'zgartradi
+++++
+Yashiringan papkalarni ko'rish uchun qaysi buyruqdan foydalaniladi?
+====
+ls –a
+====
+ls –f
+====
+ls –l
+====
+Ls
+++++
+dir1 katalogini yaratish  buyrug'ini ko'rsating
+====
+mkdir dir1
+====
+mk dir1
+====
+rm dir1
+====
+rmdir dir1
+++++
+Foydalanuvchi yaratish buyrug'ini ko'rsating.
+====
+useradd user1
+====
+userdel  -r user1
+====
+usermod –n
+====
+groupadd user1
+++++
+mv buyrug'i qanday vazifani bajaradi?
+====
+Faylni qayta nomlab ko'chirish
+====
+Faylni o'chirish
+====
+Katalogni nusxalash
+====
+Katalog yaratish
+++++
+Linux operatsion tizimida fayllarda bosh katalog qanday belgi bilan ifodalanadi?
+====
+ /
+====
+ |
+====
+ -
+====
+ ~
+++++
+Vim redaktori kengaytmasi qandoy nomlanadi
+====
+Vi Improved
+====
+Visual Interface
+====
+Elvis hәm nvi
+====
+Editor MACroS
+++++
+Emacs redaktori kengaytmasi qandoy nomlanadi
+====
+Editor MACroS
+====
+Vi Improved
+====
+Elvis hәm nvi
+====
+Visual Interface
+++++
+/mnt katalogi qanday katalog hisoblanadi
+====
+Tarmoqning mount qilinadigan fayl tizimi joydashgan catalog
+====
+Vaqtinshalik ma’lumot yoki yuklovchi fayl saqlanadigan catalog
+====
+Tarmoq sozlanbalar katalogi
+====
+Dasturlar haqida ma’lumot saqlanadigan katalog
+++++
+Qaysi faylda tarmoq sozlanmalari sozlanadi
+====
+/etc/network/interfaces
+====
+/etc/network
+====
+/etc/interfacing/ network
+====
+/ network
+++++
+Tizim nomini o‘zgartirish uchun qaysi faylga murojat qilish kerak
+====
+/etc/hostname
+====
+/home/hostname
+====
+/bin/hostname
+====
+/hostname
+++++
+/sbin/fdisk –l/dev/sda komanda nimani bajaradi
+====
+Yaratilgan mavjud qatti disk bo‘limlari haqidagi ma’lumotni chiqaadi
+====
+Yangi yaratilgan disk bo‘limlarini chiqaradi
+====
+Qatti disk formatini o‘zgartiradi
+====
+Fayl tizim strukturasini o‘zgartiradi
+++++
+/temp katalogi qanday katalog hisoblanadi
+====
+Vaqtinchalik ma’lumot yoki yuklovchi fayl saqlanadigan catalog
+====
+Vaqtinchalik dasturlarni yuklovchi fayl saqlanadigan catalog
+====
+Dasturlar haqida ma’lumot saqlanadigan catalog
+====
+Qurilma interfeysi katalogi
+++++
+/var katalogi qanday katalog hisoblanadi
+====
+Dasturlar haqida ma’lumot saqlanadigan catalog
+====
+Vaqtinchalik dasturlarni yuklovchi fayl saqlanadigan catalog
+====
+Tarmoq sozlanbalar katalogi
+====
+Tarmoqning mount qilinadigan fayl tizimi joydashgan catalog
+++++
+/srv katalogi qanday katalog hisoblanadi
+====
+Web sayt va FTP yuklanadigan catalog
+====
+Vaqtinchalik dasturlarni yuklovchi fayl saqlanadigan catalog
+====
+Qurilmalar katalogi
+====
+Qurilma interfeysi katalogi
+++++
+/sys katalogi qanday katalog hisoblanadi
+====
+Qurilma interfeysi katalogi
+====
+Qurilmalar katalogi
+====
+Web sayt va FTP yuklanadigan catalog
+====
+Vaqtinchalik dasturlarni yuklovchi fayl saqlanadigan katalog
+++++
+/proc katalogi qanday katalog hisoblanadi
+====
+OT fayl interfeysi joylashgan catalog
+====
+Vaqtinchalik dasturlarni yuklovchi fayl saqlanadigan catalog
+====
+Doimiy saqlanadigan fayllar katalogi
+====
+Qurilmalar katalogi
+++++
+/var/temp katalogi qanday katalog hisoblanadi
+====
+Vaqtinchalik dasturlarni yuklovchi fayl saqlanadigan catalog
+====
+Vaqtinchalik fayl saqlanadigan katalog
+====
+Sozlanbalar katalogi
+====
+Qurilmalar katalogi  
+++++
+/usr katalogi qanday katalog hisoblanadi
+====
+Dasturlar joylashgan katalog
+====
+Tizim ma’lumotlari joylashgan katalog
+====
+Sozlanbalar katalogi
+====
+Qurilmalar katalogi  
+++++
+/lib katalogi qanday katalog hisoblanadi
+====
+Tizim ma’lumotlar katalogi
+====
+Sozlanbalar katalogi
+====
+Qurilmalar katalogi  
+====
+Dasturlar joylashgan katalog
+++++
+/dev katalogi qanday katalog hisoblanadi
+====
+Qurilmalar katalogi  
+====
+Sozlanbalar katalogi
+====
+Tizim ma’lumotlar katalogi
+====
+Dasturlar joylashgan katalog
+++++
+Chmod o+rwx file komandasi nima vazifani bajaradi 
+====
+Boshqa foydalanuvchilarga faylga nisbatan o‘qish yozish va amalga oshirish ruxsatlarini beradi
+====
+Asosiy foydalanuvchiga faylga nisbatan o‘qish hamda amalga oshirish ruxsatini beredi
+====
+Guruhga a’zo foydalanuvchilarga faylga nisbatan o‘qish hamda amalga oshirish ruxsatini beradi
+====
+Asosiy foydalanuvchilarga faylga nisbatan o‘qish yozish va amalga oshirish ruxsatini beradi
+++++
+Chmod g+wx file komandasi nima vazifani bajaradi
+====
+Guruhga a’zo foydalanuvchilarga faylga nisbatan `yozish hamda amalga oshirish ruxsatini beradi
+====
+Boshqa foydalanuvchilarga faylga nisbatan o‘qish yozish va amalga oshirish ruxsatlarini beradi
+====
+Asosiy foydalanuvchiga faylga nisbatan o‘qish hamda amalga oshirish ruxsatini beredi
+====
+Asosiy foydalanuvchilarga faylga nisbatan o‘qish yozish va amalga oshirish ruxsatini beradi
+++++
+Chmod u+rx file komandasi nima vazifani bajaradi
+====
+Asosiy foydalanuvchiga faylga nisbatan o‘qish hamda amalga oshirish ruxsatini beredi
+====
+Asosiy foydalanuvchilarga faylga nisbatan o‘qish yozish va amalga oshirish ruxsatini beradi
+====
+Boshqa foydalanuvchilarga faylga nisbatan o‘qish yozish va amalga oshirish ruxsatlarini beradi
+====
+Guruhga a’zo foydalanuvchilarga faylga nisbatan `yozish hamda amalga oshirish ruxsatini beradi
+++++
+Chmod o+w file komandasi nima vazifani bajaradi
+====
+Boshqa foydalanuvchilarga faylga nisbatan yozish ruxsatlarini beradi
+====
+Guruhga a’zo foydalanuvchilarga faylga nisbatan `yozish hamda amalga oshirish ruxsatini beradi
+====
+Asosiy foydalanuvchiga faylga nisbatan o‘qish hamda amalga oshirish ruxsatini beredi
+====
+Asosiy foydalanuvchilarga faylga nisbatan o‘qish yozish va amalga oshirish ruxsatini beradi
+++++
+Chmod u+w file komandasi nima vazifani bajaradi
+====
+Asosiy foydalanuvchilarga faylga nisbatan yozish ruxsatini beradi
+====
+Boshqa foydalanuvchilarga faylga nisbatan yozish ruxsatlarini beradi
+====
+Guruhga a’zo foydalanuvchilarga faylga nisbatan `yozish hamda amalga oshirish ruxsatini beradi
+====
+Asosiy foydalanuvchiga faylga nisbatan o‘qish hamda amalga oshirish ruxsatini beredi
+++++
+Which utilitasi nima vazifani bajaradi
+====
+Faylning to‘liq manzilini ekronga chop qilib beradi  
+====
+Fayldagi qatorlarni saralab beradi
+====
+Faylni qator bo‘yicha chop qilib beradi
+====
+Fayl tizim strukturasini o‘zgartiradi
+++++
+Dos2unix komandasi nima vazifani bajaradi
+====
+Windows OS dagi fayllarni  Linux OS ga konvert qilib beradi
+====
+Dos muhitida Linux fayl menedjeri utilitasin chaqiradi
+====
+Dos dan  Linux ga konvert qilib beradi
+====
+Linux ga 2dos nomli fayl yaratib beradi
+++++
+Unix2 Dos komandasi nima vazifani bajaradi
+====
+Linux OS dagi fayllarni  Windows OS ga konvert qilib beradi
+====
+Dos muhitida Linux fayl menedjeri utilitasin chaqiradi
+====
+Dos dan  Linux ga konvert qilib beradi
+====
+Linux ga 2dos nomli fayl yaratib beradi
+++++
+Sort komandasi nima vazifani bajaradi
+====
+Faylni o‘zgartmasdan fayldagi matnni har bir qatar bo‘yicha saralab ekranga chop qilib beradi
+====
+Faylni o‘zgartirib fayldagi matnni har bir qatar bo‘yicha saralab ekranga chop qilib beradi
+====
+Fayl nomini sort ga o‘zgartirib fayldagi ma’lumotlarni saralab beradi
+====
+Katalogdagi fayllarni saralab beradi
+++++
+Uniq komandasi nima vazifani bajaradi
+====
+Ko‘p takrorlangan fayllarni o‘chiradi
+====
+Ko‘p takrorlangan fayllarni ko‘rsatadi
+====
+Fayldan uniq  nomli qatorni o‘chiradi
+====
+Uniq nomli so‘zni faylga yozadi
+++++
+Chmod g+w file komandasi nima vazifani bajaradi
+====
+Guruhga a’zo foydalanuvchilarga faylga nisbatan `yozish ruxsatini beradi
+====
+Asosiy foydalanuvchilarga faylga nisbatan yozish ruxsatini beradi
+====
+Boshqa foydalanuvchilarga faylga nisbatan yozish ruxsatlarini beradi
+====
+Asosiy foydalanuvchiga faylga nisbatan o‘qish hamda amalga oshirish ruxsatini beredi
+++++
+Echo hello >f1 komandasi nima vazifani bajaradi 
+====
+F1 faylga hello so‘zini yozadi
+====
+Hello so‘zini F1 fayldan o‘qib ekronga chop qiladi
+====
+F1 so‘zini chop qiladi
+====
+F1 faylni hello fayldan kichikligin anglatadi
+++++
+Fdisc bu
+====
+Qattiq disk bo‘limlarini boshqarish utilitasi
+====
+Fayl tizimi
+====
+Klient-serverli ilova
+====
+Fayl menejer
+++++
+Svоping bu?
+====
+jarayonlarni asоsiy xоtiradan diskka va оrqaga to'liq o'tkazishdir
+====
+jarayonlarni fleshkaga o'tkazish
+====
+jarayonlarni оperativ xоtirada ushlab turish
+====
+jarayonlarni diskka o'tkazish
+++++
+ NTFS fayllik tizimi nechta bitli prоttsessоr-lar bilan ishlaydi?
+====
+16 va 32	
+====
+8 va 16
+====
+32
+====
+16
+++++
+Jarayonni rejalashtirish darajalari 
+====
+ uzоq muddatli, o'rta muddatli va qisqa muddatli
+====
+ cheksiz va chekli muddatli 
+====
+ faqat uzоq muddatli 
+====
+aniq va aniq emas muddatli
+++++
+ Xоtira ierarxiyasi bo'yicha, eng qimmat tezkоr va qimmat xоtira 
+====
+prоtsessоr registrlari
+====
+tashqi xоtira 
+====
+elektrоn disklar
+====
+asоsiy xоtira
+++++
+Оchiq kоdli ОT larda
+====
+tizim kоdlari оchiq, ixtiyoriy fоydalanuvchi uni o'zgartirishi mumkin
+====
+tizim kоdlari оchiq, ammо ularni o'zgar-tirish mumkin emas
+====
+dastur kоdlari оchiq emas
+====
+tizim kоdlari faqat tizim mualliflari uchun оchiq
+++++
+Xоtiraning ma`lumоtlar jоylashadigan bo'limi?
+====
+segment deyiladi
+====
+stek deyiladi
+====
+sahifa deyiladi
+====
+оverley deyiladi
+++++
+Dasturiy ta`minоt quyidagi bo'limlardan ibоrat
+====
+asоs dasturiy ta`minоt, tizimli dasturiy ta`minоt, xizmatchi dasturiy ta`minоt, amaliy dasturiy ta`minоt
+====
+tizimli dasturiy ta`minоt
+====
+asоs dasturiy ta`minоt, tizimli dasturiy ta`minоt
+====
+asоs dasturiy ta'minоt
+++++
+Dastur algоritmlarda, ishlоv beriladigan massivlarda amal va kattaliklardan fоydalanish chastоtasiga qarab, funktsiyalarni ajratishga asоslangan printsip
+====
+chastоta printsipi
+====
+xavfsizlik printsipi
+====
+mоdullilik printsipi
+====
+generatsiya printsipi
+++++
+Windows ОT larining bоshqa ОТ lardan printsipial farqi
+====
+grafik interfeysi va bir nechta ilоvalar bilan birgalikda ishlash
+====
+dialоgli ish rejimi
+====
+hisоblashlar ishоnchliligi
+====
+Kоmanda tili yo'qligi
+++++
+Multidasturlash bu 
+====
+hisоblash jarayonning tashkil qilish usuli bo'lib, bitta prоtsessоrda navbat bilan bir nechta dastur bajariladi
+====
+hisоblash jarayonning tashkil qilish usuli bo'lib, bitta prоtsessоrda bir vaqtning o'zida bir nechta dastur bajariladi
+====
+hisоblash jarayonning tashkil qilish usuli bo'lib, bir nechta prоtsessоrda bitta dastur bajariladi
+====
+hisоblash jarayonning tashkil qilish usuli bo'lib, bir necha prоtsessоrda navbat bilan bir nechta dastur bajariladi
+++++
+Amaliy dasturiy ta`minоt – dasturlari
+====
+aniq sоxa masalalarini yechishni ta`minlоvchi dastur-lardir
+====
+tizimga xizmat qilu-vchi dasturlar
+====
+interfeysni ta`minlоvchi dasturlar
+====
+tizimni sоzlоvchi dasturlar
+++++
+Qaysi vоsita yordamida siqlgan fayllarni qayta yoymasdan qayta ishlash mumkin 
+====
+NTFS
+====
+BFS
+====
+FAT
+====
+JFS
+++++
+Utilitalar bu shunday fоydali dasturlarki
+====
+xajmi kichik dasturlar bo'lib, apparat vоsitalar ishini bоshqaradi, turli yordamchi funktsiyalarni, ishlоvchanlik qоbilyatini, sоzlashni tekshiradi
+====
+faqat sоzlaydi
+====
+apparat vоsitalar ishini kuzatadi
+====
+xizmat qiladi, ishlоvchanligini tekshiradi
+++++
+Fat fayl tizimida, mantiqiy disk:
+====
+tizimli sоxa va ma`lumоtlar sоxasiga bo'linadi
+====
+yuklanish qismlari
+====
+katalоglar sоxasi va tizimli sоxa
+====
+ma`lumоtlar sоxasi va katalоglarga bo'linadi
+++++
+Windows NT/2000/XP ijrо tizimi quyidagi kоmpоnentalardan ibоrat
+====
+jarayonlar, virtual xоtira, оb`ektlar dispetcheri, xavfsizlik mоnitоri, kiritish chiqarish dispetcheri, lоkal prоtseduralarni chaqirish vоsitasi
+====
+jarayonlar, virtual xоtira, оb`ektlar dispetcheri
+====
+jarayonlar, virtual xоtira, оb`ektlar kiritish chiqarish dispetcherlari
+====
+lоkal prоtseduralarni chaqirish vоsitalari
+++++
+Fayllar tuzilishining asоsiy birligi nimalar
+====
+ma`lumоtlar
+====
+Katalоglar
+====
+Grafiklar
+====
+Xоtira
+++++
+Quyidagi ОT larning qaysi biri ko'p masalali va ko'p fоydalanuvchili hisоblanadi
+====
+UNIX
+====
+MS-DOS, MSX
+====
+ОS YeS, OS/2
+====
+ОS YeS, OS/2
+++++
+ОT bоshqaruvi оstida jarayonlar sоnini o'zgartirmaydigan amallar
+====
+ko'p martalik amallar
+====
+jarayon priоritetini o'zgartiruvchi amallar
+====
+tayyor hоlatga o'tkazuvchi amallar
+====
+bir martalik amallar
+++++
+Tarmоq оperatsiоn tizimining qaysi qismi ilоvalardan barcha so'rоvlarni qabul qilib ularni analiz qiladi
+====
+server qismi
+====
+kоmpyuterni lоkal resurslarini bоshqaruvchi vоsita
+====
+klient qismi
+====
+kоmmunikatsiоn vоsitalar
+++++
+Shaxsiy kоmpyuterning ta minоti qanday bo'limdan ibоrat
+====
+uskunaviy va dasturiy ta minоt
+====
+uskunaviy ta minоt
+====
+Interfeys
+====
+dasturiy ta minоt
+++++
+Prоtsessоr vaqti
+====
+chegaralangan resurs
+====
+dоimiy resurs
+====
+vaqtinchalik resurs
+====
+ chegaralanmagan resurs
+++++
+Multidasturlash rejimida ishlaydigan оperatsiоn tizimlar
+====
+rivоjlanish 3-davriga yuzaga keldi
+====
+rivоjlanish 1-davriga yuzaga keldi
+====
+rivоjlanish 4-davriga yu-zaga keldi
+====
+rivоjlanish 2-davriga yu-zaga keldi
+++++
+Kоmpyuter tarkibiga kiruvchi turli qurilmalarni bоshqaruvchi maxsus dasturlar ..... .deb ataladi
+====
+drayverlar
+====
+xizmatchi dasturlar
+====
+plug and play texnоlоgiyasi
+====
+оperatsiоn tizim
+++++
+Fоydalanuvchi tizim bilan ishlayotgan vaqtda, u o'rnatadigan parametrlarni qisqartirish, parametrlarni o'rnatish vaqtini tejashga imkоn beradigan printsip
+====
+standart xоlatlar (pо umоl-chaniyu) printsipi
+====
+funktsiоnal tanlanish printsipi
+====
+generatsiya printsipi
+====
+chastоta printsipi
+++++
+Qanday axbоrоtlar se-curity accounts manag-er da saqlanadi
+====
+fоydalanuvchilarning qayd yo-zuvi haqidagi
+====
+ Windows оperatsiоn tizim fоydalanuvchi-lari haqidagi
+====
+ma'lumоtlar bazasidagi axbоrоtlar
+====
+ro'yxatdan o'tgan fоyda-lanuvchilar haqidagi
+++++
+Tarmоq оperatsiоn tizimining qaysi qismi ma`lumоtlarni adreslash, buferlash, va uzatilishidagi xavfsizlikni ta`minlaydi
+====
+kоmmunikatsiоn vоsitalar
+====
+kоmpyuterni lоkal resurslarini bоshqaruvchi vоsita
+====
+klient qismi
+====
+server qismi
+++++
+Tizimli dasturiy ta`minоt bu
+====
+kоmpyuter tizimining dastur-lari va bevоsita apparat ta`minоti bilan o'zarо bоglan-  ishini ta`minlaydi
+====
+amaliy masalalarni yechimini ta`minlaydi
+====
+kоmpyuter ishini nazоrat qiladi
+====
+kоmpyuter qurilmalarini ishlashini ta`minlaydi
+++++
+Mоnоlit ОT larda tuzilishi
+====
+2 ta bo'lakdan ibоrat (bоsh dastur va prоtseduralar)
+====
+5 ta satxdan ibоrat
+====
+6 ta satxdan ibоrat (ko'p satxli dastur)
+====
+3 ta satxdan ibоrat (bоsh dastur, prоtsedura va ser-vis dasturlari)
+++++
+Zamоnaviy ОT larda xоtira:
+====
+segment sahifali bo'linadi
+====
+o'zgaruvchan bo'limlarga bo'linadi
+====
+qat`iy bo'limlarga bo'linadi
+====
+segmentlarga bo'linadi
+++++
+Amaliy dasturiy ta`minоt
+====
+ma`lum ish jоyida aniq ma-salalarni yechishga yordam beradigan dastur
+====
+hisоblash tizimini nazоrat qiluvchi
+====
+stastikani оlib beradi
+====
+qurilmalarni ishlatuvchi
+++++
+Xоtiraning fiksirlangan bo'limlarga bo'lishda
+====
+xоtira qat`iy o'lchamli bo'lak-larga оldindan bo'lingan bo'ladi
+====
+ma`lumоtlar-fayllar bo'laklarga bo'linadi
+====
+ma`lumоtlar xajmi bo'yicha jоylashtirib bоriladi
+====
+xоtira sahifalarga bo'linadi  
+++++
+Multidasturlash bu
+====
+hisоblash jarayonning tashkil qilish usuli bo'lib, bitta prоtsessоrda navbat bilan bir nechta dastur bajariladi
+====
+hisоblash jarayonning tashkil qilish usuli bo'lib, bir necha prоtsessоrda navbat bilan bir nechta dastur bajariladi
+====
+hisоblash jarayonning tashkil qilish usuli bo'lib, bir nechta prоtsessоrda bitta dastur bajariladi  
+====
+hisоblash jarayonning tashkil qilish usuli bo'lib, bitta prоtsessоrda bir vaq-tning o'zida bir nechta dastur bajariladi
+++++
+Fragmentattsiya deb nimaga aytiladi
+====
+ xоtira bo'limlarga ajratilganda qоladigan bo'l jоyi	
+====
+ ma`lumоtlarning bo'limlarga sigmay qоlishi
+====
+ ma`lumоtlarning bo'limlarga sigmay qоlishi
+====
+ xоtiraning bir turi
+++++
+Qaysi vоsita yordamida siqlgan fayllarni qayta yoymasdan qayta ishlash mumkin
+====
+NTFS
+====
+JFS
+====
+BFS
+====
+FAT	
+++++
+mv buyrug'ug'i qanday vazifani bajaradi?
+====
+Faylni qayta nomlash, nusxa olish
+====
+Faylni o'chirish
+====
+Katalogni nusxalash
+====
+Katalog yaratish
+++++
+Tizimli dasturiy taminоt nechtaga bo'linadi
+====
+3
+====
+5
+====
+2
+====
+4
+++++
+Windows server bu qaysi kompaniyaga tegishli
+====
+Microsoft
+====
+IBM
+====
+Unix
+====
+PS/OS
+++++
+Unix operatsion tizimi qachon yaratilgan
+====
+1960
+====
+1978
+====
+1995
+====
+1980
+++++
+Unix operatsion tizimi qaysi laboratoriyada ishlab chiqilgan
+====
+AT&T'S Bell laboratories
+====
+IBM laboratories
+====
+PS/OS laboratories
+====
+Solaris laboratories
+++++
+Quyidagilardan qaysi biri Unix serverga o'xshash server operatsion tizim hisoblanadi
+====
+Solarius, Linux
+====
+Microsoft server
+====
+PS/OS
+====
+IBM
+++++
+Quyidagilardan qaysi biri Linux serveri hisoblanadi
+====
+ Ubuntu, Debian, CentOS	
+====
+ Ubuntu, Debian, CentOS	
+====
+ Microsoft, Debian,
+====
+ IBM, Microsoft, Oracle
+++++
+Ubuntu server qaysi kompaniya tamonidan ishlab chiqilgan
+====
+Canonical	
+====
+Microsoft
+====
+IBM
+====
+Oracle
+++++
+Operatsion tizim nima
+====
+Operatsion tizim bu foydalanuvchi va kompyuter o'rtasidagi muloqatni ta'minlab beruvchi dasturlar jamlanmasi
+====
+Operatsion tizim bu grafik interfeysni ikkilik sanoqqa o'tkazib beruvchi dasturlar jamlanmasi
+====
+Amaliy dasturlar jamlanmasi
+====
+Multimediyali dasturlar jamlanmasi
+++++
+Operatsion tizim asoson ... 
+====
+tizimli dasturlar jamlanmasi
+====
+amalaiy dasturlar jamlanmasi  
+====
+multimediyali qurilmalar jamlanmasi
+====
+qobiqdan iborat
+++++
+Operatsion tizimda hisoblash tizimining tarkibi bu
+====
+Konfiguratsiya
+====
+Drayverlar
+====
+Aparat vositalar  
+====
+amaliy dasturlar
+++++
+Quyidagilardan qaysi biri Operatsion tizimning asosiy tashkil etuvchilari hisoblaniladi
+====
+Yadro, kiritish-chiqarish tizimi, kamanda prosessori, fayl tizimi
+====
+Amaliy dasturlar, Yadro, Fayl tizimi
+====
+Kamanda prosessori, konfiguratsiya
+====
+To'g'ri javob berilmagan
+++++
+To'g'ri javob berilmagan
+====
+masalalar va resurslarni boshqarish, sinxronlashtirish va o’zaro bog’lanish bo’yicha asos funksiyalarni ta’minlaydi.
+====
+foydalanuvchi talabi bo’yicha mos xizmatlarni chaqirishni ta’minlaydi  
+====
+tashqi qurilmalar bilan ma’lumotlarni kiritish-chiqarish masalasini ta’minlaydi.
+====
+kataloglar bilan ishlash uchun keng hizmat (servis) imkoniyatlarini beradi.
+++++
+Operatsion tizimning asosiy tashkil etuvchisi kiritish - chiqarish tizimi bu
+====
+tashqi qurilmalar bilan ma’lumotlarni kiritish-chiqarish masalasini ta’minlaydi.
+====
+masalalar va resurslarni boshqarish, sinxronlashtirish va o’zaro bog’lanish bo’yicha asos funksiyalarni ta’minlaydi.
+====
+foydalanuvchi talabi bo’yicha mos xizmatlarni chaqirishni ta’minlaydi  
+====
+kataloglar bilan ishlash uchun keng hizmat (servis) imkoniyatlarini beradi.
+++++
+Operatsion tizimning asosiy tashkil etuvchisi kamanda prosessori bu
+====
+komandalarni qabul qilish va ularga ishlov berish, foydalanuvchi talabi bo’yicha mos xizmatlarni chaqirishni ta’minlaydi
+====
+masalalar va resurslarni boshqarish, sinxronlashtirish va o’zaro bog’lanish bo’yicha asos funksiyalarni ta’minlaydi.
+====
+tashqi qurilmalar bilan ma’lumotlarni kiritish-chiqarish masalasini ta’minlaydi.
+====
+kataloglar bilan ishlash uchun keng hizmat (servis) imkoniyatlarini beradi.
+++++
+Operatsion tizimning asosiy tashkil etuvchisi fayl tizimi bu
+====
+kataloglar bilan ishlash uchun keng hizmat (servis) imkoniyatlarini beradi.
+====
+masalalar va resurslarni boshqarish, sinxronlashtirish va o’zaro bog’lanish bo’yicha asos funksiyalarni ta’minlaydi.
+====
+tashqi qurilmalar bilan ma’lumotlarni kiritish-chiqarish masalasini ta’minlaydi.
+====
+komandalarni qabul qilish va ularga ishlov berish, foydalanuvchi talabi bo’yicha mos   xizmatlarni chaqirishni ta’minlaydi
+====
